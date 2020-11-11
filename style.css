@@ -1,0 +1,96 @@
+.nav {
+    vertical-align: top;
+    background-color: #815D43;
+    text-align: left;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
+
+.nav  li {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    background-color: #815D43;
+    padding: 10px 50px 10px 10px;
+    list-style-type: none;
+    margin: 1%;
+    font-family:"arial";
+    color: white;
+}
+
+.logo {
+    color:#815D43;
+    font-size: 30px;
+    font-family: Arial;
+    text-align: center;
+    padding: 100px;
+}
+
+.heroImg {
+    height: 100%;
+    background-image: url("/Users/haileyjamieson/Documents/00_MyCode/ux_ui_hw_17/overlay.png");
+}
+.content {
+    width: 500px;
+    margin: auto;
+}
+.button {
+    background-color: #C85658;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    display: inline-block;
+}
+
+.myWork {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mySkills {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.myProjects {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center {
+    display: block;
+    margin-left: 150px;
+    margin-right: auto;
+
+}
+.flexItem1 {
+    padding: 10px;
+    font-size: 45pt;
+}
+.flexContainer {
+    display: flex;
+    flex-direction: row;
+    
+}
+.flexItem {
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+footer {
+    vertical-align: top;
+    background-color: #815D43;
+    text-align: left;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
+footer li {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    background-color: #815D43;
+    padding: 10px 50px 10px 10px;
+    list-style-type: none;
+    margin: 1%;
+    font-family:"arial";
+    color: white;
+}
+
+
+
